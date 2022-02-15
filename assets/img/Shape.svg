@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Graphic_Elements" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M329.72,993.03c-42.92-26.52-82.99-58.08-122.5-89.64c-52.46-41.9-106.79-87.09-131.1-149.67
+			c-49.2-126.64,5.09-357.63,95.2-456.27c58.53-64.07,180.2-108.48,261.68-135.37c95.45-31.5,199.51-37.59,297.64-15.24
+			c156.35,35.61,294.89,142.83,368.57,285.26c25.74,49.75,44.05,104.61,43.22,160.61c-1.09,73.04-34.5,142.02-76.12,202.05
+			c-73,105.3-175.11,192.01-294.93,237.41c-119.82,45.41-257.41,47.44-374.87-3.78C373.35,1018.29,351.18,1006.29,329.72,993.03z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_2_);">
+		
+		<image style="overflow:visible;" width="1420" height="1419" xlink:href="assets/img/xinyi.jpg"/>
+	</g>
+</g>
+</svg>
