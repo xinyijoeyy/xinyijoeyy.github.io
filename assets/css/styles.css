@@ -1026,6 +1026,10 @@ img{
     .portfolio_img{
         width: 320px;
     }
+    .graduation_content{
+        width: 320px;
+        align-items: center;
+    }
 
     .portfolio_content{
         align-items: center;
