@@ -1005,8 +1005,7 @@ img{
     }
 
     .about_img{
-        width: fit-content;
-        height: fit-content;
+        width: 300px;
     }
 
     .about_description{
