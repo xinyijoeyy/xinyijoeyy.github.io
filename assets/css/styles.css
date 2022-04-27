@@ -662,6 +662,7 @@ img{
 
 .portfolio_description{
     margin-bottom: var(--mb-0-75);
+    font-size: 9pt;
 }
 
 .portfolio_button:hover .button_icon{
