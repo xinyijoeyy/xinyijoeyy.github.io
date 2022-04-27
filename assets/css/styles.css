@@ -1005,7 +1005,8 @@ img{
     }
 
     .about_img{
-        width: 350px;
+        width: fit-content;
+        height: fit-content;
     }
 
     .about_description{
@@ -1017,7 +1018,8 @@ img{
     }
 
     .about_buttons{
-        justify-content: initial;
+        display: flex;
+        justify-content: center;
     }
 
     .qualification_tabs{
