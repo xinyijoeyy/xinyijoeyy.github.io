@@ -1,5 +1,7 @@
 /*-------------------- GOOGLE FONTS --------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Reenie Beanie');
 
 /*-------------------- VARIABLES CSS --------------------*/
 :root {
@@ -266,7 +268,7 @@ img{
 
 /* Change background header */
 .scroll-header{
-    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.3);
 }
 
 /*-------------------- HOME --------------------*/
