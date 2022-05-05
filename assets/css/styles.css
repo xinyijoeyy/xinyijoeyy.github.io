@@ -751,7 +751,7 @@ img{
 }
 
 .contact_title{
-    font-size: var(--h3-font-size);
+    font-size: var(--font-medium);
     font-weight: var(--font-medium);
 }
 
